@@ -10,3 +10,15 @@ In the meantime, you can follow us on social media for updates:
 📷 [Instagram](https://www.instagram.com/fitdropapp/)
 
 We appreciate your patience, and we can't wait to see your unique outfits on Fitdrop soon! 🕺
+
+## Our Tech Stack
+### Front End
+* Expo
+* React Native
+* TypeScript
+* Tailwind
+
+### Back End
+* Adonis.js
+* TypeScript
+
