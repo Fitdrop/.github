@@ -16,7 +16,7 @@ We appreciate your patience, and we can't wait to see your unique outfits on Fit
 * Expo
 * React Native
 * TypeScript
-* Tailwind
+* Tailwind CSS
 
 ### Back End
 * Adonis.js
