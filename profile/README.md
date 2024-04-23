@@ -1,15 +1,15 @@
-# Fitdrop - Under Construction 🚧👷‍♂️
-👋 Hello, Fashion Enthusiasts! Fitdrop is on its way, but we're currently working hard behind the scenes to bring you an amazing fashion-sharing experience. Please pardon our appearance while we put on the finishing touches.
+# 🎉 Fitdrop is now live! 🚀
+👋 Hello, Fashion Enthusiasts! Fitdrop is here and ready for you to explore. Get ready to immerse yourself in an amazing fashion-sharing experience where you can share your style, discover trends, and connect with the fashion community.
 
-Stay tuned for a stunning platform where you can share your style, discover trends, and connect with the fashion community.
+📱 Download Fitdrop now on the App Store and Google Play!
 
-📋 Join the waitlist [here](https://www.fitdrop.pro/) 
+[App Store](https://apps.apple.com/us/app/fitdrop/id6475749713) | Google Play
 
-In the meantime, you can follow us on social media for updates:
+You can also follow us on social media for updates:
 
 📷 [Instagram](https://www.instagram.com/fitdropapp/)
 
-We appreciate your patience, and we can't wait to see your unique outfits on Fitdrop soon! 🕺
+Thank you for your support, and we can't wait to see your style on Fitdrop! 💃
 
 ## Our Tech Stack
 ### Front End
@@ -21,4 +21,9 @@ We appreciate your patience, and we can't wait to see your unique outfits on Fit
 ### Back End
 * Adonis.js
 * TypeScript
+
+
+
+
+
 
