@@ -3,7 +3,7 @@
 
 📱 Download Fitdrop now on the App Store and Google Play!
 
-[App Store](https://apps.apple.com/us/app/fitdrop/id6475749713) | Google Play
+[App Store](https://apps.apple.com/us/app/fitdrop/id6475749713) | [Google Play](https://play.google.com/store/apps/details?id=fitdrop.androidapp&hl=en&gl=US&pli=1)
 
 You can also follow us on social media for updates:
 
