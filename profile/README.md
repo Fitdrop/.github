@@ -20,6 +20,7 @@ Thank you for your support, and we can't wait to see your style on Fitdrop! 💃
 
 ### Back End
 * Adonis.js
+* Node.js
 * TypeScript
 
 
